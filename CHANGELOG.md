@@ -1,5 +1,5 @@
-# Revision history for reorder-expression
+# Changelog for reorder-expression
 
-## 0.1.0.0 -- YYYY-mm-dd
+## 0.1.0.0
 
-* First version. Released on an unsuspecting world.
+* Initial release.
