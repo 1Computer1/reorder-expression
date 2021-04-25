@@ -1,0 +1,7 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:reorder-expression"
+
+    - path: "test"
+      component: "reorder-expression:test:reorder-expression-test"
