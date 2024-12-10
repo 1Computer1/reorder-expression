@@ -1,6 +1,6 @@
 cabal-version: 2.4
 name:          reorder-expression
-version:       0.1.0.1
+version:       0.1.0.2
 synopsis:      Reorder expressions in a syntax tree according to operator fixities.
 description:
     A library for reordering expressions in a syntax tree generically according to operator associativity and precedence.
